@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#data
+test.txt
+train.txt
+feature_sizes.txt
+dac.tar.gz
+output
+
 # C extensions
 *.so
 
