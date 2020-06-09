@@ -1,4 +1,5 @@
 #!/bin/bash
 
-wget http://labs.criteo.com/2014/02/download-kaggle-display-advertising-challenge-dataset/
-tar -zxvf dac.tar.gz
+# http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/
+wget https://s3-eu-west-1.amazonaws.com/kaggle-display-advertising-challenge-dataset/dac.tar.gz
+tar -zxvf dac.tar.gz data
